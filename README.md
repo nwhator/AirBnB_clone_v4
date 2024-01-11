@@ -6,8 +6,8 @@ The console is the first segment of the AirBnB project at Holberton School that 
 - **Type:** Front-end, Web dynamic
 - **Languages:** Python (Flask), JavaScript (JQuery)
 - **Team Members:**
-  - Candice De Bruin [GitHub](https://github.com/itsjustdice)
-  - Promise Nwhator [GitHub](https://github.com/nwhator)
+  - [Candice De Bruin](https://github.com/itsjustdice)
+  - [Promise Nwhator](https://github.com/nwhator)
 
 **Concepts & Learning Objectives**
 - Key Focus: AirBnB clone, Web dynamic
